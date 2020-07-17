@@ -3953,24 +3953,24 @@
     <File>
       <GroupNumber>2</GroupNumber>
       <FileNumber>32</FileNumber>
-      <FileType>1</FileType>
+      <FileType>5</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\rubbish_21_01\Src\hr4988.c</PathWithFileName>
-      <FilenameWithoutPath>hr4988.c</FilenameWithoutPath>
+      <PathWithFileName>..\Inc\hr4988.h</PathWithFileName>
+      <FilenameWithoutPath>hr4988.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
     <File>
       <GroupNumber>2</GroupNumber>
       <FileNumber>33</FileNumber>
-      <FileType>5</FileType>
+      <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\rubbish_21_01\Inc\hr4988.h</PathWithFileName>
-      <FilenameWithoutPath>hr4988.h</FilenameWithoutPath>
+      <PathWithFileName>..\Src\hr4988.c</PathWithFileName>
+      <FilenameWithoutPath>hr4988.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

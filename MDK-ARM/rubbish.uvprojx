@@ -543,14 +543,14 @@
               <FilePath>../Src/stm32f7xx_hal_timebase_tim.c</FilePath>
             </File>
             <File>
-              <FileName>hr4988.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\rubbish_21_01\Src\hr4988.c</FilePath>
-            </File>
-            <File>
               <FileName>hr4988.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\rubbish_21_01\Inc\hr4988.h</FilePath>
+              <FilePath>..\Inc\hr4988.h</FilePath>
+            </File>
+            <File>
+              <FileName>hr4988.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\hr4988.c</FilePath>
             </File>
           </Files>
         </Group>
